@@ -6,7 +6,7 @@ It can tell when you aren't playing Star Citizen.
 And this is what it looks like when you are playing Star Citizen.
 
 
-
+\n\n
 Credits:
 BlightVeil for stealing the code initially.
 ShadowMoses' IronPoint Team for Rebranding it.
