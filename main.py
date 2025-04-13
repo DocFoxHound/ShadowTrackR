@@ -42,7 +42,7 @@ def resource_path(relative_path):
 
 def check_for_updates():
     """Check for updates using the GitHub API."""
-    github_api_url = "https://api.github.com/repos/martinmedic/shadowtrackr/releases/latest"
+    github_api_url = "https://api.github.com/repos/DocFoxHound/shadowtrackr/releases/latest"
 
     try:
         headers = {'User-Agent': 'Killtracker/1.1'}
