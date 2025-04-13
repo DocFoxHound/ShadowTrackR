@@ -364,7 +364,7 @@ def set_game_mode(line, logger):
 def setup_gui(game_running):
     app = tk.Tk()
     app.title("ShadowTrackR")
-    app.geometry("600x450")
+    app.geometry("800x450")
     app.resizable(False, False)
     app.configure(bg="#1a1a1a")
 
@@ -543,6 +543,14 @@ def setup_gui(game_running):
             **button_style
         )
         load_key_button.pack(side=tk.LEFT, padx=(5, 0))
+
+        extra_button = tk.Button(
+            key_frame,
+            text="Track My IP",
+            command=load_existing_key,
+            **button_style
+        )
+        extra_button.pack(side=tk.LEFT, padx=(5, 0))
 
         # Log Display
         text_area = scrolledtext.ScrolledText(
