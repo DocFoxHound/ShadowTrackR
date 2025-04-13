@@ -8,3 +8,31 @@ And this is what it looks like when you are playing Star Citizen.
 Credits:
 BlightVeil for stealing the code initially.
 ShadowMoses' IronPoint Team for Rebranding it.
+
+# 🏴‍☠️ BeowulfHunter
+
+**A Star Citizen kill tracker and combat logger for pirate lords and data junkies.**
+
+![screenshot](assets/screenshot.png)
+
+---
+
+## ⚙️ Features
+
+- ✅ Real-time log monitoring
+- ☠️ Kill detection & sound effects
+- 📦 Auto-submission to API
+- 📊 Leaderboard + GUI in Electron
+- 💀 Pirate-themed interface
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Installation
+
+```bash
+git clone https://github.com/yourname/BeowulfHunter.git
+cd BeowulfHunter
+npm install
+npm start
