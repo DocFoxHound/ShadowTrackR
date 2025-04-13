@@ -1,8 +1,3 @@
-
-Credits:
-BlightVeil for stealing the code initially.
-ShadowMoses' IronPoint Team for Rebranding it.
-
 # 🏴‍☠️ ShadowTrackR
 
 **A Star Citizen kill tracker and combat logger for pirate lords and data junkies.**
@@ -29,3 +24,12 @@ ShadowMoses' IronPoint Team for Rebranding it.
 ```bash
 git clone https://github.com/yourmom/ShadowTrackR.git
 npm install deez-nuts
+
+```
+
+--- 
+
+## Credits
+
+- BlightVeil for stealing the code initially.
+- ShadowMoses' IronPoint Team for Rebranding it.
