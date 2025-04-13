@@ -1,0 +1,9 @@
+# The following libraries are standard and come pre-installed with Python:
+# os, time, json, threading, sys
+# tkinter (GUI library, included with most Python distributions)
+# tkinter.font and tkinter.scrolledtext (also part of tkinter)
+
+psutil  
+requests  
+packaging  
+tk
