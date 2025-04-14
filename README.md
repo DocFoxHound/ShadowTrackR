@@ -23,7 +23,7 @@
 
 ```bash
 git clone https://github.com/yourmom/ShadowTrackR.git
-npm install deez-nuts
+npm install deez
 
 ```
 
